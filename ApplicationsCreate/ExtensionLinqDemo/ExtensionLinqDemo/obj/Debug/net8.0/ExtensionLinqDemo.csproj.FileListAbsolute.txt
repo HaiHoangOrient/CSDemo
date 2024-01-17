@@ -1,0 +1,14 @@
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\bin\Debug\net8.0\ExtensionLinqDemo.exe
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\bin\Debug\net8.0\ExtensionLinqDemo.deps.json
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\bin\Debug\net8.0\ExtensionLinqDemo.runtimeconfig.json
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\bin\Debug\net8.0\ExtensionLinqDemo.dll
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\bin\Debug\net8.0\ExtensionLinqDemo.pdb
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\obj\Debug\net8.0\ExtensionLinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\obj\Debug\net8.0\ExtensionLinqDemo.AssemblyInfoInputs.cache
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\obj\Debug\net8.0\ExtensionLinqDemo.AssemblyInfo.cs
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\obj\Debug\net8.0\ExtensionLinqDemo.csproj.CoreCompileInputs.cache
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\obj\Debug\net8.0\ExtensionLinqDemo.dll
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\obj\Debug\net8.0\refint\ExtensionLinqDemo.dll
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\obj\Debug\net8.0\ExtensionLinqDemo.pdb
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\obj\Debug\net8.0\ExtensionLinqDemo.genruntimeconfig.cache
+D:\RandomDemo\DotNet\ApplicationsCreate\ExtensionLinqDemo\ExtensionLinqDemo\obj\Debug\net8.0\ref\ExtensionLinqDemo.dll
