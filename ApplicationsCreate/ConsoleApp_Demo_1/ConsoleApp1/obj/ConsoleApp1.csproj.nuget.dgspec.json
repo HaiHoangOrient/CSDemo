@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RandomDemo\\DotNet\\ApplicationsCreate\\ConsoleApp_Demo_1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\RandomDemo\\DotNet\\CSDemo\\ApplicationsCreate\\ConsoleApp_Demo_1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\RandomDemo\\DotNet\\ApplicationsCreate\\ConsoleApp_Demo_1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\RandomDemo\\DotNet\\CSDemo\\ApplicationsCreate\\ConsoleApp_Demo_1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RandomDemo\\DotNet\\ApplicationsCreate\\ConsoleApp_Demo_1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\RandomDemo\\DotNet\\CSDemo\\ApplicationsCreate\\ConsoleApp_Demo_1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\RandomDemo\\DotNet\\ApplicationsCreate\\ConsoleApp_Demo_1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\RandomDemo\\DotNet\\CSDemo\\ApplicationsCreate\\ConsoleApp_Demo_1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\hai.hoang\\.nuget\\packages\\",
-        "outputPath": "D:\\RandomDemo\\DotNet\\ApplicationsCreate\\ConsoleApp_Demo_1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\RandomDemo\\DotNet\\CSDemo\\ApplicationsCreate\\ConsoleApp_Demo_1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hai.hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
